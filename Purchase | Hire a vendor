@@ -2,10 +2,10 @@
 window.dataLayer = window.dataLayer || []
 dataLayer.push({
   'event': 'hire_vendor',
-  'formID': 'Payment form id'
-  'user_email': 'add the user email here'
-  'price': 'vendor bid value'
-  'transaction_id': 'id of the purchase if possible'
+  'formID': 'Payment form id',
+  'user_email': 'add the user email here',
+  'price': 'vendor bid value',
+  'transaction_id': 'id of the purchase if possible',
   'currency': 'USD'
 
 });
