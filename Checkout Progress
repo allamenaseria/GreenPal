@@ -2,8 +2,8 @@
 window.dataLayer = window.dataLayer || []
 dataLayer.push({
   'event': 'begin_checkout',
-  'formID': 'Payment form id'
-  'user_email': 'add the user email here'
+  'formID': 'Payment form id',
+  'user_email': 'add the user email here',
   'price': 'vendor bid value'
 
 });
